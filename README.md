@@ -1,4 +1,4 @@
 # Space-Trajectory-Simulator-Preview
 
-<video src="https://raw.githubusercontent.com/TheRealNanoz/Space-Trajectory-Simulator-Preview/main/example1.mp4" controls width="600">
+<video src="https://github.com/TheRealNanoz/Space-Trajectory-Simulator-Preview/blob/main/example1.mp4?raw=true" controls width="600">
 </video>
